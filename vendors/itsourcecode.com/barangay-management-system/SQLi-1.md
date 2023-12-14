@@ -1,6 +1,6 @@
 # Barangay Management System v1.0 by itsourcecode.com has SQL injection
 
-Vulnerability Author: Jiang Qian
+Vulnerability Author: CSZ
 
 The decompression password for the source file is itsourcecode.
 
